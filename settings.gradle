@@ -1,0 +1,2 @@
+rootProject.name='CustomorinterAdapterExample'
+include ':app'
